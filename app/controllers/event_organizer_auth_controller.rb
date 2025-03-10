@@ -1,0 +1,2 @@
+class EventOrganizerAuthController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class CustomerAuthController < ApplicationController
+end
